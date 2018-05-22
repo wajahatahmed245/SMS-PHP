@@ -1,0 +1,29 @@
+.display-1{
+    text-align: center;
+    
+}
+
+.admin-home{
+    font-size: 75px;
+    text-align: center;
+}
+
+#PULL{
+    width:100px; 
+    border-right:20px; 
+    margin-left: 31px;
+    margin-top:4px;
+}
+
+th{
+    
+    background-color:#F7F7F7;
+    
+}
+
+
+#logout{
+    margin-left: 0px;
+    border: 0px;
+    margin: 0px;
+}
